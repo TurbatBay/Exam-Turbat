@@ -22,6 +22,7 @@ header {
     background-repeat: no-repeat;
     background-size: cover;
     margin: auto;
+    padding-left: 30px;
 }
 .header-flex {
     display: flex;
@@ -32,6 +33,7 @@ nav {
     display: flex;
     justify-content: space-between;
     width: 50%;
+    padding: 30px;
 }
 nav a {
     color: #000000;
